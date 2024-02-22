@@ -1,0 +1,11 @@
+#ifndef BUSINESSOWNERTYPE_H
+#define BUSINESSOWNERTYPE_H
+
+enum class BusinessOwnerType
+{
+    SME,
+    MULTISTATE,
+    INTERNATIONAL
+};
+
+#endif // BUSINESSOWNERTYPE_H
